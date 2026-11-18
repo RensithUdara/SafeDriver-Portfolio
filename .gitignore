@@ -41,3 +41,7 @@ next-env.d.ts
 
 .vercel
 .env*
+.env
+.env.*
+.env.local
+.env.production
